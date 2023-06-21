@@ -12,12 +12,12 @@
     
 }
 .cabeçario-pricipal{
-    width: 14%;
+    width: 17%;
 
 }
 .cabeçario-2{
-    background-color: #FFFCFA;
-    color: #000000;
+    background-color: #d8e1e6;
+    color: #000116;
     display: flex;
     justify-content: space-around;
     padding: 26px 0;
@@ -29,5 +29,19 @@
     margin: 0 16px;
     display: inline-block
 
-    
+}
+.vindas{
+    background-color: #ffeddf;
+    padding: 52px 0;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.vindas-div{
+    width: 60%;
+}
+.titulolagal{
+    padding: 24px 0;
 }
